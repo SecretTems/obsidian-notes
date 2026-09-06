@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-09-06-2026-09-06-htucrr.md",
+                "file": "_posts/2026-09-06-htucrr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-06-2026-09-06-htucrr"
+              "title": "2026-09-06-htucrr"
             }
           }
         ]
@@ -202,9 +202,10 @@
   },
   "active": "8906e3ec0585306c",
   "lastOpenFiles": [
-    "_posts/2026-09-06-torrent.md",
-    "_posts/2026-09-06-2026-09-06-htucrr.md",
     "_posts/2026-09-06-goldberg.md",
+    "_posts/2026-09-05-woah.md",
+    "_posts/2026-09-06-htucrr.md",
+    "_posts/2026-09-06-torrent.md",
     "assets/img/prof.png",
     "assets/img/Screenshot 2026-07-16 215513.png",
     "assets/Screenshot 2026-07-16 215513.png",
@@ -228,7 +229,6 @@
     "_site-ci-project/assets/img/favicons/web-app-manifest-192x192.png",
     "_posts/2026-09-05-Test2.md",
     "_posts/2026-09-06-ISTHISIT.md",
-    "_posts/2026-09-05-woah.md",
     "_posts/test.md",
     "_site/templates/Standard.md",
     "_site/templates/Untitled.md",

@@ -1,5 +1,6 @@
 [
   "templater-obsidian",
   "obsidian-git",
-  "obsidian-linter"
+  "obsidian-linter",
+  "editing-toolbar"
 ]
