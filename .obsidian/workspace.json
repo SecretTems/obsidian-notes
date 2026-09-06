@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/With Image.md",
+                "file": "_tabs/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "With Image"
+              "title": "about"
             }
           },
           {
@@ -212,6 +212,7 @@
   },
   "active": "5a82ea77bbe09d48",
   "lastOpenFiles": [
+    "_tabs/archives.md",
     "_tabs/about.md",
     "templates/With Image.md",
     "templates/Standard.md",
