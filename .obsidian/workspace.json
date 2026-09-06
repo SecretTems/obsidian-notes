@@ -181,11 +181,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "163a9e57ccd41a48",
   "lastOpenFiles": [
+    "Gemfile.lock",
     "_site-ci-project/about/index.html",
     "_site-ci-project/about",
     "_site-ci-project/archives/index.html",
@@ -196,7 +199,6 @@
     "_site-ci-project/categories/hardware",
     "_site-ci-project/categories/index.html",
     "_site-ci-project/categories",
-    "_site-ci-project/posts/woah/index.html",
     "_site-ci-project/assets/img/favicons/web-app-manifest-512x512.png",
     "_site-ci-project/assets/img/favicons/web-app-manifest-192x192.png",
     "_site-ci-project/assets/img/favicons/favicon.svg",
