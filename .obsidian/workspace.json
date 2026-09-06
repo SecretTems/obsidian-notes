@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "631068322d5cfe9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "75e4e32cf65badac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "163a9e57ccd41a48",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52baa37c509aa33d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8cf956a2286b66d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f6a738d7de62a6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "27c531eee8cd0197",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a5f390b341fbb767",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0104c3d75cd58d13",
+    "type": "split",
+    "children": [
+      {
+        "id": "81ee70fe3171b935",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efd5313ae9ee9e4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2026-09-06-ISTHISIT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6688cd1589a817c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2026-09-06-ISTHISIT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "270facac402bc9a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "83e120e350777a0a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "808a2ebe18ee7c93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2026-09-06-ISTHISIT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "163a9e57ccd41a48",
+  "lastOpenFiles": [
+    "_site-ci-project/about/index.html",
+    "_site-ci-project/about",
+    "_site-ci-project/archives/index.html",
+    "_site-ci-project/archives",
+    "_site-ci-project/categories/rants/index.html",
+    "_site-ci-project/categories/hardware/index.html",
+    "_site-ci-project/categories/rants",
+    "_site-ci-project/categories/hardware",
+    "_site-ci-project/categories/index.html",
+    "_site-ci-project/categories",
+    "_site-ci-project/posts/woah/index.html",
+    "_site-ci-project/assets/img/favicons/web-app-manifest-512x512.png",
+    "_site-ci-project/assets/img/favicons/web-app-manifest-192x192.png",
+    "_site-ci-project/assets/img/favicons/favicon.svg",
+    "_site-ci-project/assets/img/favicons/favicon-96x96.png",
+    "_site-ci-project/assets/img/favicons/apple-touch-icon.png",
+    "_site-ci/assets/img/favicons/web-app-manifest-512x512.png",
+    "_site-ci/assets/img/favicons/web-app-manifest-192x192.png",
+    "_site-ci/assets/img/favicons/favicon.svg",
+    "_site-ci/assets/img/favicons/favicon-96x96.png",
+    "_site-ci/assets/img/favicons/apple-touch-icon.png",
+    "_posts/2026-09-05-Test2.md",
+    "_posts/2026-09-06-ISTHISIT.md",
+    "_posts/2026-09-05-woah.md",
+    "_posts/test.md",
+    "templates/Standard.md",
+    "_site/templates/Standard.md",
+    "_site/templates/Untitled.md",
+    "_posts/woah.md"
+  ]
+}
