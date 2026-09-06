@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "75e4e32cf65badac",
+        "id": "e0143e022b249311",
         "type": "tabs",
         "children": [
           {
-            "id": "163a9e57ccd41a48",
+            "id": "8906e3ec0585306c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-09-06-htucrr.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-09-06-htucrr"
             }
           }
         ]
@@ -186,8 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "163a9e57ccd41a48",
+  "active": "8906e3ec0585306c",
   "lastOpenFiles": [
+    "templates/Standard.md",
+    "_posts/2026-09-06-htucrr.md",
+    "templates",
     "_site/about/index.html",
     "_site/about",
     "_site/archives/index.html",
@@ -197,8 +204,6 @@
     "_site/posts/woah/index.html",
     "_site/posts/woah",
     "_site/posts",
-    "_site/assets/js/data/swconf.js",
-    "_site/assets/js/data/search.json",
     "_site/assets/img/favicons/web-app-manifest-512x512.png",
     "_site/assets/img/favicons/web-app-manifest-192x192.png",
     "_site/assets/img/favicons/favicon.svg",
@@ -213,7 +218,6 @@
     "_posts/2026-09-06-ISTHISIT.md",
     "_posts/2026-09-05-woah.md",
     "_posts/test.md",
-    "templates/Standard.md",
     "_site/templates/Standard.md",
     "_site/templates/Untitled.md",
     "_posts/woah.md"
