@@ -28,6 +28,9 @@ url: "https://secrettems.github.io"
 github:
   username: SecretTems # change to your GitHub username
 
+bluesky:
+  username: SecretTems
+
 #twitter:
 #  username:  # change to your Twitter username
 
