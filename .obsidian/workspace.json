@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/2026-09-06-torrent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "2026-09-06-torrent"
             }
           },
           {
@@ -212,8 +212,8 @@
   },
   "active": "5a82ea77bbe09d48",
   "lastOpenFiles": [
-    "_tabs/archives.md",
     "_tabs/about.md",
+    "_tabs/archives.md",
     "templates/With Image.md",
     "templates/Standard.md",
     "_posts/2026-09-06-htucrr.md",
